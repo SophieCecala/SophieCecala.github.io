@@ -2,9 +2,8 @@
     function buttonClick(button){
       alert("Thank you!");
     }
-
+let counter = 0;
 function counterLikes(element){
- let counter = 0;
  counter++;
  element.innerHTML=counter;
  
