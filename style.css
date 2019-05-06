@@ -42,7 +42,8 @@ header {
         display: block;
       }
     }
-    button {
+/*     button { */
+input{
     color: #0099CC;
     background-color: #eb94d0;
     border: 2px solid #0099CC;
