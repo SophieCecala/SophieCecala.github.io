@@ -13,11 +13,10 @@ header {
     }
     img {
       width: 200px;
-      height: 200px
+      height: 200px;
       margin: 40px 40px 40px 40px;
       border: 7px solid white;
       border-radius: 20px;
-
     }
     ul {
       padding: 30px;
@@ -60,3 +59,9 @@ header {
       text-decoration: none;
       text-transform: uppercase;
 }
+    footer{
+        background-color:  #8293af;
+        height: 200px;
+        width: 100%;
+
+    }
