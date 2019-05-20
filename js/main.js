@@ -1,6 +1,7 @@
 
 let counter = 0;
-function counterLikes(element){
+function counterLikes(element) {
     counter++;
-    element.innerHTML = "LIKE  "+ counter;
+    element.innerHTML = "LIKE  " + counter;
+}
 
