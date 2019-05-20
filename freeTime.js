@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 function buttonClick(button){
-=======
- 
-  function buttonClick(button){
->>>>>>> origin/master
     alert("Thank you!");
 }
 
@@ -12,8 +7,4 @@ function counterLikes(element){
     counter++;
     element.innerHTML = "LIKE  "+ counter;
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/master
